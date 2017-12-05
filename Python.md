@@ -3,6 +3,10 @@
 ## 最佳實踐
 * [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/index.html)
 
+## 文件
+* [Python 3 Module of the Week](https://pymotw.com/3/index.html)
+* [The Python Standard Library](https://docs.python.org/3/library/index.html)
+
 ## Web相關
 * [Django](https://www.djangoproject.com/) Python中功能最強大的MVC框架
   * [自強學堂-Django教學](https://code.ziqiangxuetang.com/django/django-tutorial.html)
